@@ -1,0 +1,12 @@
+body{
+	background-color: #e1e1e1;
+	font: italic small-caps bold 12px/1.6 Arial, sans-serif;
+}
+footer{
+	width: 80%;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 1px grey;
+}
+	
